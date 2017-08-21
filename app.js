@@ -1,5 +1,5 @@
 
-alert('ini adalah permainan DADU GILA, setiap giliran pemain akan menebak jumlah dadu apakah jumlahnya lebih besar atau lebih kecil dari sebelumnya. Pemain akan diberikan uang 1000 sebagai permulaan');
+alert('ini adalah permainan Tebak Dadu, setiap giliran pemain akan menebak jumlah dadu apakah jumlahnya lebih besar atau lebih kecil dari sebelumnya. Pemain akan diberikan uang 1000 sebagai permulaan');
 
 // inisisasi
 var uang = 1000;
